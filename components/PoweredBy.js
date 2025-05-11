@@ -11,7 +11,7 @@ export default function PoweredBy(props) {
       <a
         href='https://wy412.pw'
         className='underline justify-start'>
-        文远享当当}
+        文远享当当
       </a>
       .
     </div>
