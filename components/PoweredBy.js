@@ -1,4 +1,4 @@
-ny888import { siteConfig } from '@/lib/config'
+import { siteConfig } from '@/lib/config'
 
 /**
  * 驱动版权 
