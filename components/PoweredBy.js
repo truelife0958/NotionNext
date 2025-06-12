@@ -1,4 +1,4 @@
-import { siteConfig } from '@/lib/config'
+ny888import { siteConfig } from '@/lib/config'
 
 /**
  * 驱动版权
@@ -9,7 +9,7 @@ export default function PoweredBy(props) {
     <div className={`inline text-sm font-serif ${props.className || ''}`}>
       <span className='mr-1'>Powered by</span>
       <a
-        href='https://wy412.pw'
+        href='https://weny888.com'
         className='underline justify-start'>
         文远享当当
       </a>
